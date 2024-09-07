@@ -6,3 +6,6 @@ console.log(tip)
 
 
 //Task 2
+
+let total = x + tip
+console.log( `The bill was $${x}, the tip was $${tip}, and the totl value is $${total}`)
